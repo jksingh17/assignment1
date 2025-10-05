@@ -1,0 +1,7 @@
+- [x] Project scaffolded with Next.js, TypeScript, Tailwind, ESLint, App Router, src directory, and API support.
+- [ ] Customize the project for HelpDesk Mini requirements.
+- [ ] Install required extensions (none specified).
+- [ ] Compile and run diagnostics.
+- [ ] Create and run tasks if needed.
+- [ ] Launch the project.
+- [ ] Ensure documentation is complete (README, copilot-instructions.md).
